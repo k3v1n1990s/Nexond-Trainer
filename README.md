@@ -4,6 +4,8 @@ A Universal MapleStory Trainer
 This trainer is currently in Beta development stage. The goal of this trainer is to provide a highly user-customizable and user-friendly experience. This trainer will be heavily based off of [Simple Trainer](https://github.com/md35-gk/Simple-Trainer).
 
 ## Planned Features
+See the development here: [Nexon'd Trainer Project](https://github.com/md35-gk/Nexond-Trainer/projects/1)
+
 Nexon'd Trainer should have the following implemented before it's official release to the public:
 * Basic hacks, a profile system, ID search tool
 * Backwards compatibility through the use of a GitHub-powered Script Bank
