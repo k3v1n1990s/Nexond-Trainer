@@ -1,6 +1,13 @@
-v0.2:
+v0.3: (TBA)
+- allow users to change Main GitHub URL and Game version settings
+- added opt-in setting to Auto Enable MSCRC Bypass on attach
+- added support for Auto Aggro, Auto Attack, Auto Familiar, Auto HP-MP, Auto Pet Feed, Boss Godmode, Dragon Breath Fusion Attack, Enable Disabled Buttons, Force Summon to Attack, Full Map Attack, Hide Nametags, Hide Player Damage, Infinite Blaster Bullets, Infinite Familiar, Instant Final Psychic Smash, Instant Final Smash, Item Filter (coming soon), Jr. Boogie Unlimited MP, Mach No Delay, Mob Freeze, Monkey Spirits No Delay, No Background, No Blazing Extinction Effect, No Blue Boxes, No Delay Arrow Platter, No Delay Flash Jump, No Delay Ingame Direction Event, No Fade Stages, No Mob Reaction, No Mob Spawn-Death Animation, No Platform, Perfect Stance, Slide and Attack, Unlimited Arrow Platter, Zoom
+- added selective script loading through new Load.ini file (for lower trainer start-up time)
+- added Debug option (developer use) and Donators list to "About" page
+
+v0.2: (March 15, 2018)
 - fixed incorrect game version url
 - added support for No Combo Animation, No Skill Sound, No Cooldown
 
-v0.1:
+v0.1: (March 15, 2018)
 - Initial BETA release
