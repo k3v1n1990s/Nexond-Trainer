@@ -1,3 +1,10 @@
+v0.4: (March 26, 2018)
+- fixed missing Auto Aggro, Enable Disabled Buttons
+- added support for Hide Most Skill Animation, No Loot Animation
+- added 'new version' detection (so users double check their settings)
+- scripts that fail to load and/or are not working will no longer be available to enable
+- fixed "About" section cut-off
+
 v0.3: (March 24, 2018)
 - allow users to change Main GitHub URL and Game version settings
 - added opt-in setting to Auto Enable MSCRC Bypass on attach
