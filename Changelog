@@ -1,3 +1,12 @@
+v0.5: (TBA -- expected April 7, 2018)
+- added information that Nexon'd Trainer is a free trainer, updated the Checkpoint
+- *updated the Terms of Use
+- added Authentication Key requirement
+- added a temporary hotkey to enable/disable Skill Injection
+- fixed missing Disable Pet Return, No Fade Stages in Load.ini
+- added support for Auto Key, Item Filter
+- added Profile System
+
 v0.4: (March 26, 2018)
 - fixed missing Auto Aggro, Enable Disabled Buttons
 - added support for Hide Most Skill Animation, No Loot Animation
