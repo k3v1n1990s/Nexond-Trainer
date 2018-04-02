@@ -5,7 +5,6 @@ v0.5: (TBA -- expected April 7, 2018)
 - added a temporary hotkey to enable/disable Skill Injection
 - fixed missing Disable Pet Return, No Fade Stages in Load.ini
 - added support for Auto Key, Item Filter
-- added Profile System
 
 v0.4: (March 26, 2018)
 - fixed missing Auto Aggro, Enable Disabled Buttons
