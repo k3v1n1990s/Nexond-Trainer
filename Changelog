@@ -1,10 +1,14 @@
-v0.5: (TBA -- expected April 7, 2018)
-- added information that Nexon'd Trainer is a free trainer, updated the Checkpoint
-- *updated the Terms of Use
+v0.5: (April 7, 2018)
+- renamed "Game version" setting to "GitHub Folder" as it was clearly confusing people
+- fixed "Access Violation" error when attaching
+- removed "Walk Right" Mob Control option
+- added "Disable All" option in File > Disable All
+- added "Trainer Thread" redirection in File > Trainer Thread
+- Donations are now being accepted :)
+- added information that Nexon'd Trainer is a free trainer and updated the Terms of Use
 - added Authentication Key requirement
-- added a temporary hotkey to enable/disable Skill Injection
 - fixed missing Disable Pet Return, No Fade Stages in Load.ini
-- added support for Auto Key, Item Filter
+- added support for Auto Key, Item Filter, Summoned Skills Kami, No DC Popup
 
 v0.4: (March 26, 2018)
 - fixed missing Auto Aggro, Enable Disabled Buttons
