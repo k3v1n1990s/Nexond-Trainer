@@ -1,3 +1,12 @@
+v0.5r2: (April 13, 2018)
+- fixed an issue in conjunction with the 3rd change from the v0.5r1 update that persisted
+
+v0.5r1: (April 12, 2018)
+- users can now detach from the current process and attach to another process without the need to restart the trainer
+- fixed an issue with Auto Key for scripts with a delay and key value
+- fixed an issue that prevented some users from starting up the trainer (Log file generation is disabled for these users)
+- minor changes to help hints
+
 v0.5: (April 7, 2018)
 - renamed "Game version" setting to "GitHub Folder" as it was clearly confusing people
 - fixed "Access Violation" error when attaching
