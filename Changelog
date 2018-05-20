@@ -1,3 +1,14 @@
+v0.6: (May 20, 2018)
+- temporarily disabled Authentication Key stage
+- temporarily disabled "Use Lower Memory" setting; added an option to manually clean memory (File > Clean Memory)
+- changed detection of various dependency files to circumvent some issues users are facing when trying to use the trainer
+- changed Trainer Log to output internally instead of externally. Users still have the option of exporting the file if needed.
+- added support for non-MapleStory.exe process names
+- added GitHub Branch setting (required -- default is "master")
+- added support for Auto Terminate, Air Loot, Auto Inner Ability, Auto Offline, Pet Feed, Fast Pet Loot, Hyper Rock CRC Bypass, Logo+Video Skip, Monkey Spirits with Shikigami Haunting, No Catch Breath, Show/Hide NPCs, Constant Blazing Extinction Attack, Freeze Blazing Extinction, Instant Spawn Blazing Extinction, No Delay Blazing Extinction, Unlimited Blazing Extinction
+- added custom Pointers (BETA)
+- enabling Tubi will automatically enable No Loot Animation and Instant Drop
+
 v0.5r2: (April 13, 2018)
 - fixed an issue in conjunction with the 3rd change from the v0.5r1 update that persisted
 
